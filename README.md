@@ -4,8 +4,7 @@ I recently discovered a very cool method to connect to my Pis, that doesn't requ
 
 In its simplest form, you connect **GROUND RXD0 TXD0** pins as follows:
 
-
-
+<img src="https://raw.githubusercontent.com/vintagefuture/pi-serial-connection/main/pi2-pinout.jpg" width="500">
 
 On a Linux terminal, make sure you have `screen` installed, then run:
 
