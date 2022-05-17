@@ -13,4 +13,6 @@ sudo screen /dev/ttyUSB0 115200
 ```
  where /dev/ttyUSB0 is the particular device I'm using, a FT232RL USB to TTL Serial Interface Adapter:
  
+ <img src="https://github.com/vintagefuture/pi-serial-connection/blob/main/FT232RL-diagram.jpg">
+ 
  <img src="https://github.com/vintagefuture/pi-serial-connection/blob/main/FT232RL.jpg" width="500">
