@@ -15,4 +15,4 @@ sudo screen /dev/ttyUSB0 115200
  
  <img src="https://github.com/vintagefuture/pi-serial-connection/blob/main/FT232RL-diagram.jpg">
  
- 
+ <img src="https://github.com/vintagefuture/pi-serial-connection/blob/main/FT232RL.jpg" width="500">
